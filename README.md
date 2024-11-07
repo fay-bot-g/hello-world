@@ -1,2 +1,2 @@
 # hello-world
-learning &amp; practice for a new beginner
+learning &amp; practice 
